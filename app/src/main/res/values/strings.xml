@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Sen sante</string>
+    <string name="consult">Comment consulter un patient </string>
+    <string name="presentation">Presentation</string>
+    <string name="consult_text">
+        Ceci est un texte pour une phase de test(A modidfier).
+        Ceci est un texte pour une phase de test(A modidfier).
+        Ceci est un texte pour une phase de test(A modidfier).
+        Ceci est un texte pour une phase de test(A modidfier).
+    </string>
+    <string name="hospital_appointment">Comment créer un Rendez-vous</string>
+    <string name="hosptal_appointment_text">
+        Ceci est un texte pour une phase de test(A modidfier).
+        Ceci est un texte pour une phase de test(A modidfier).
+        Ceci est un texte pour une phase de test(A modidfier).
+        Ceci est un texte pour une phase de test(A modidfier).
+    </string>
+    <string name="show_consult">Comment afficher les consultations des patients</string>
+    <string name="show_consult_text">
+        Ceci est un texte pour une phase de test(A modidfier).
+        Ceci est un texte pour une phase de test(A modidfier).
+        Ceci est un texte pour une phase de test(A modidfier).
+        Ceci est un texte pour une phase de test(A modidfier).
+    </string>
+</resources>
