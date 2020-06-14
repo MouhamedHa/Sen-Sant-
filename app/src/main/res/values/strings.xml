@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Sen Sante</string>
+    <string name="consult">Comment consulter un patient </string>
+    <string name="presentation">Presentation</string>
+    <string name="consult_text">
+        Ceci est un texte pour une phase de test(A modidfier).
+        Ceci est un texte pour une phase de test(A modidfier).
+        Ceci est un texte pour une phase de test(A modidfier).
+        Ceci est un texte pour une phase de test(A modidfier).
+    </string>
+    <string name="hospital_appointment">Comment créer un Rendez-vous</string>
+    <string name="hosptal_appointment_text">
+        Ceci est un texte pour une phase de test(A modidfier).
+        Ceci est un texte pour une phase de test(A modidfier).
+        Ceci est un texte pour une phase de test(A modidfier).
+        Ceci est un texte pour une phase de test(A modidfier).
+    </string>
+    <string name="show_consult">Comment afficher les consultations des patients</string>
+    <string name="show_consult_text">
+        Ceci est un texte pour une phase de test(A modidfier).
+        Ceci est un texte pour une phase de test(A modidfier).
+        Ceci est un texte pour une phase de test(A modidfier).
+        Ceci est un texte pour une phase de test(A modidfier).
+    </string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="email">Email</string>
+    <string name="pwd">Mot de Passe</string>
+    <string name="btnConnect">Se Connecter</string>
+    <string name="wait">Please wait</string>
+    <string name="error_parameters">Erreur paramétres</string>
+    <string name="error_connection">Erreur de connection</string>
+    <string name="temperature">T° </string>
+    <string name="blood_presure">Tension Artérielle</string>
+    <string name="weight">Poids</string>
+    <string name="blood_grp">Groupe sanguin</string>
+    <string name="symptoms">Symptôme(s)</string>
+    <string name="analysis">Analyse</string>
+    <string name="prescription">Ordonnance(s)</string>
+    <string name="diagnostic">Diagnostiques</string>
+    <string name="submit">Soumettre</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="menu_aide">Aide</string>
+</resources>
